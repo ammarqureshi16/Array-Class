@@ -162,3 +162,5 @@ var password=prompt("Enter the new password:")
 var lowerpassword=password.toLocaleLowerCase()
 
 var useremail=prompt("Enter the email:")
+
+console.log('USername is coreects')
