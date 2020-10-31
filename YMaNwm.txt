@@ -1,0 +1,16 @@
+git init ( fir initilize git on applciation folder)
+git add . ( for track folders of application)
+git commit -m "add you commit here" (add commint about your work )
+git remote add origin repo url(integrate repo url for application)
+git push -u origin master (for push code to githib repo)
+git checkout branch name
+
+
+
+
+
+
+
+
+
+tirumae786@gmail.com
